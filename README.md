@@ -1,2 +1,3 @@
-# sll.github.io
-demo
+<?php 
+  header("Location : index.php");
+?>
